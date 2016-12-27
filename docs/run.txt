@@ -1,0 +1,2 @@
+1. run python shell
+2. exec(open('C:\\Users\przem\workspace\CaesarCode\src\Main.py').read())
